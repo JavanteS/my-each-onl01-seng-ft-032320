@@ -4,3 +4,4 @@ def my_each(array)
  num = num + 
  end
 end
+end
