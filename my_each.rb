@@ -3,4 +3,5 @@ def my_each(array)
  while num < array.length
         num = num + 1
  end
+ array
 end
