@@ -1,3 +1,4 @@
-def my_each(array) 
+def my_each(array)
+  num=0
  while 
 end
