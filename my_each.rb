@@ -1,4 +1,4 @@
 def my_each(array)
   num=0
- while 
+ while num < array.length
 end
