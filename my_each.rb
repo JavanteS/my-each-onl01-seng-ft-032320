@@ -6,6 +6,6 @@ def my_each(array)
         num = num + 1
         
   end
- array
+  array
  end
 end
